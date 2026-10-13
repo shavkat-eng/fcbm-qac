@@ -1,0 +1,5 @@
+en_ascii Marisa - k=1 MB=2.04282 mean_us=307.915 p99=1719.49 mism=0
+en_ascii Marisa - k=5 MB=2.04282 mean_us=304.073 p99=1698.79 mism=0
+en_ascii Marisa - k=10 MB=2.04282 mean_us=298 p99=1680.34 mism=0
+en_ascii Marisa - k=20 MB=2.04282 mean_us=307.348 p99=1705.21 mism=0
+en_ascii Marisa - k=50 MB=2.04282 mean_us=326.02 p99=1748.92 mism=0

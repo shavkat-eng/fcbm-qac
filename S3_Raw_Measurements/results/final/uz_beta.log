@@ -1,0 +1,6 @@
+uz B=8 k=1 mean=1.06157 max=3 over=0
+uz B=8 k=10 mean=6.37178 max=11 over=0
+uz B=8 k=50 mean=20.428 max=49 over=0
+uz B=32 k=1 mean=1.0933 max=3 over=0
+uz B=32 k=10 mean=4.79175 max=11 over=0
+uz B=32 k=50 mean=13.3411 max=44 over=0

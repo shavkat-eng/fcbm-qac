@@ -1,0 +1,16 @@
+diff --git a/include/constants.hpp b/include/constants.hpp
+index 67dadfe..5c3f74f 100644
+--- a/include/constants.hpp
++++ b/include/constants.hpp
+@@ -1,8 +1,10 @@
+ #pragma once
++#include <cstdint>
++#include <cstddef>
+ 
+ namespace autocomplete {
+ namespace constants {
+-static const uint32_t MAX_K = 15;
++static const uint32_t MAX_K = 64;
+ static const uint32_t MAX_NUM_TERMS_PER_QUERY = 64;
+ static const uint32_t MAX_NUM_CHARS_PER_QUERY = 128;
+ static const size_t POOL_SIZE = MAX_K * MAX_NUM_CHARS_PER_QUERY;

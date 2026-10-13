@@ -1,0 +1,7 @@
+0 -> 1
+0_0 -> 38
+0_o -> 39
+0a -> 40
+0b -> 41
+notfound=0 distinct_ids=314767 all_ids_distinct=1 id_order_monotone=0 non_lex_ids=314738
+n=314767 alphabet=85 size_bytes=1224093 heap_bytes=1618416 build_s=1.085 non_lex_ids=314738 lookup_mean_us=0.405 p99_us=0.883 chk=12111389404

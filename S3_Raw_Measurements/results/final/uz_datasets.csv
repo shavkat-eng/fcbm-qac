@@ -1,0 +1,2 @@
+dataset,n,raw_bytes,trie_nodes,queries,empty_queries,mean_matches
+uz,133273,1283441,407556,100000,0,

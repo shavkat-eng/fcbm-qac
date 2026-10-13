@@ -1,0 +1,7 @@
+! -> 1
+!! -> 31
+!!! -> 32
+!!!,!2).) -> 1977
+!!#(%. -> 1978
+notfound=0 distinct_ids=133273 all_ids_distinct=1 id_order_monotone=0 non_lex_ids=133272
+n=133273 alphabet=68 size_bytes=686472 heap_bytes=841968 build_s=0.740 non_lex_ids=133272 lookup_mean_us=0.601 p99_us=3.926 chk=8870559158

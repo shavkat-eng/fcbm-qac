@@ -1,0 +1,46 @@
+2026-10-10 12:50:41: building completion_trie...
+2026-10-10 12:50:41: DONE
+2026-10-10 12:50:41: building fc_dictionary with bucket size 16...
+9.63017 characters per string
+2026-10-10 12:50:41: DONE
+2026-10-10 12:50:41: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 12:50:41: DONE
+2026-10-10 12:50:41: building forward_index...
+using 37484 words
+2026-10-10 12:50:41: DONE
+2026-10-10 12:50:41: building unsorted_list...
+	using 18 [bpi]
+2026-10-10 12:50:41: DONE
+2026-10-10 12:50:41: building minimal_docids...
+	using 18 [bpi]
+2026-10-10 12:50:41: DONE
+uz type1 k=1 heapMB=3.18915 totalMB=2.50429 prefixMB=1.67694 mean=1.34841 p99=2.338 mism=0 notfound=0
+uz type1 k=5 heapMB=3.18915 totalMB=2.50429 prefixMB=1.67694 mean=2.68691 p99=5.813 mism=0 notfound=0
+uz type1 k=10 heapMB=3.18915 totalMB=2.50429 prefixMB=1.67694 mean=3.80377 p99=8.619 mism=0 notfound=0
+uz type1 k=20 heapMB=3.18915 totalMB=2.50429 prefixMB=1.67694 mean=6.43979 p99=21.857 mism=0 notfound=0
+uz type1 k=50 heapMB=3.18915 totalMB=2.50429 prefixMB=1.67694 mean=11.1517 p99=41.571 mism=0 notfound=0
+2026-10-10 12:50:44: building integer_fc_dictionary with bucket size 16...
+2026-10-10 12:50:44: DONE
+2026-10-10 12:50:44: building fc_dictionary with bucket size 16...
+9.63017 characters per string
+2026-10-10 12:50:44: DONE
+2026-10-10 12:50:44: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 12:50:44: DONE
+	using 18 [bpi]
+2026-10-10 12:50:44: building unsorted_list...
+	using 18 [bpi]
+2026-10-10 12:50:44: DONE
+2026-10-10 12:50:44: building minimal_docids...
+	using 18 [bpi]
+2026-10-10 12:50:44: DONE
+uz type2 k=1 heapMB=3.82949 totalMB=3.15506 prefixMB=2.32771 mean=1.40562 p99=2.564 mism=0 notfound=0
+uz type2 k=5 heapMB=3.82949 totalMB=3.15506 prefixMB=2.32771 mean=2.84228 p99=6.201 mism=0 notfound=0
+uz type2 k=10 heapMB=3.82949 totalMB=3.15506 prefixMB=2.32771 mean=4.18914 p99=9.285 mism=0 notfound=0
+uz type2 k=20 heapMB=3.82949 totalMB=3.15506 prefixMB=2.32771 mean=6.93296 p99=27.453 mism=0 notfound=0
+uz type2 k=50 heapMB=3.82949 totalMB=3.15506 prefixMB=2.32771 mean=13.8213 p99=53.049 mism=0 notfound=0

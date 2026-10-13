@@ -1,0 +1,230 @@
+2026-10-10 11:28:57: building completion_trie...
+2026-10-10 11:28:57: DONE
+2026-10-10 11:28:57: building fc_dictionary with bucket size 16...
+8.81254 characters per string
+2026-10-10 11:28:57: DONE
+2026-10-10 11:28:57: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:28:57: DONE
+2026-10-10 11:28:57: building forward_index...
+using 15816 words
+2026-10-10 11:28:57: DONE
+2026-10-10 11:28:57: building unsorted_list...
+	using 16 [bpi]
+2026-10-10 11:28:57: DONE
+2026-10-10 11:28:57: building minimal_docids...
+	using 16 [bpi]
+2026-10-10 11:28:57: DONE
+tr type1 k=1 heapMB=1.22323 totalMB=1.07235 prefixMB=0.712157 mean=1.18873 p99=2.216 mism=0 notfound=0
+tr type1 k=5 heapMB=1.22323 totalMB=1.07235 prefixMB=0.712157 mean=2.50682 p99=5.43 mism=0 notfound=0
+tr type1 k=10 heapMB=1.22323 totalMB=1.07235 prefixMB=0.712157 mean=3.28953 p99=7.033 mism=0 notfound=0
+tr type1 k=20 heapMB=1.22323 totalMB=1.07235 prefixMB=0.712157 mean=5.23503 p99=13.556 mism=0 notfound=0
+tr type1 k=50 heapMB=1.22323 totalMB=1.07235 prefixMB=0.712157 mean=9.92635 p99=34.193 mism=0 notfound=0
+2026-10-10 11:29:00: building integer_fc_dictionary with bucket size 16...
+2026-10-10 11:29:00: DONE
+2026-10-10 11:29:00: building fc_dictionary with bucket size 16...
+8.81254 characters per string
+2026-10-10 11:29:00: DONE
+2026-10-10 11:29:00: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:00: DONE
+	using 16 [bpi]
+2026-10-10 11:29:00: building unsorted_list...
+	using 16 [bpi]
+2026-10-10 11:29:00: DONE
+2026-10-10 11:29:00: building minimal_docids...
+	using 16 [bpi]
+2026-10-10 11:29:00: DONE
+tr type2 k=1 heapMB=1.59045 totalMB=1.38109 prefixMB=1.0209 mean=1.1861 p99=2.079 mism=0 notfound=0
+tr type2 k=5 heapMB=1.59045 totalMB=1.38109 prefixMB=1.0209 mean=2.51301 p99=4.93 mism=0 notfound=0
+tr type2 k=10 heapMB=1.59045 totalMB=1.38109 prefixMB=1.0209 mean=3.6848 p99=7.984 mism=0 notfound=0
+tr type2 k=20 heapMB=1.59045 totalMB=1.38109 prefixMB=1.0209 mean=5.84313 p99=15.158 mism=0 notfound=0
+tr type2 k=50 heapMB=1.59045 totalMB=1.38109 prefixMB=1.0209 mean=11.3141 p99=40.358 mism=0 notfound=0
+2026-10-10 11:29:03: building completion_trie...
+2026-10-10 11:29:03: DONE
+2026-10-10 11:29:03: building fc_dictionary with bucket size 16...
+7.23868 characters per string
+2026-10-10 11:29:03: DONE
+2026-10-10 11:29:03: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:03: DONE
+2026-10-10 11:29:03: building forward_index...
+using 94982 words
+2026-10-10 11:29:03: DONE
+2026-10-10 11:29:03: building unsorted_list...
+	using 19 [bpi]
+2026-10-10 11:29:04: DONE
+2026-10-10 11:29:04: building minimal_docids...
+	using 19 [bpi]
+2026-10-10 11:29:04: DONE
+en type1 k=1 heapMB=7.06085 totalMB=5.85339 prefixMB=3.7852 mean=1.35782 p99=2.762 mism=0 notfound=0
+en type1 k=5 heapMB=7.06085 totalMB=5.85339 prefixMB=3.7852 mean=3.07004 p99=6.458 mism=0 notfound=0
+en type1 k=10 heapMB=7.06085 totalMB=5.85339 prefixMB=3.7852 mean=4.80453 p99=10.73 mism=0 notfound=0
+en type1 k=20 heapMB=7.06085 totalMB=5.85339 prefixMB=3.7852 mean=8.90142 p99=31.294 mism=0 notfound=0
+en type1 k=50 heapMB=7.06085 totalMB=5.85339 prefixMB=3.7852 mean=17.5133 p99=52.962 mism=0 notfound=0
+2026-10-10 11:29:08: building integer_fc_dictionary with bucket size 16...
+2026-10-10 11:29:08: DONE
+2026-10-10 11:29:08: building fc_dictionary with bucket size 16...
+7.23868 characters per string
+2026-10-10 11:29:08: DONE
+2026-10-10 11:29:08: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:08: DONE
+	using 19 [bpi]
+2026-10-10 11:29:08: building unsorted_list...
+	using 19 [bpi]
+2026-10-10 11:29:08: DONE
+2026-10-10 11:29:08: building minimal_docids...
+	using 19 [bpi]
+2026-10-10 11:29:08: DONE
+en type2 k=1 heapMB=9.93184 totalMB=7.41618 prefixMB=5.348 mean=1.79462 p99=3.97 mism=0 notfound=0
+en type2 k=5 heapMB=9.93184 totalMB=7.41618 prefixMB=5.348 mean=3.79819 p99=8.579 mism=0 notfound=0
+en type2 k=10 heapMB=9.93184 totalMB=7.41618 prefixMB=5.348 mean=5.50025 p99=23.185 mism=0 notfound=0
+en type2 k=20 heapMB=9.93184 totalMB=7.41618 prefixMB=5.348 mean=9.54922 p99=33.246 mism=0 notfound=0
+en type2 k=50 heapMB=9.93184 totalMB=7.41618 prefixMB=5.348 mean=18.7353 p99=52.911 mism=0 notfound=0
+2026-10-10 11:29:14: building completion_trie...
+2026-10-10 11:29:14: DONE
+2026-10-10 11:29:14: building fc_dictionary with bucket size 16...
+10.6447 characters per string
+2026-10-10 11:29:14: DONE
+2026-10-10 11:29:14: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:14: DONE
+2026-10-10 11:29:14: building forward_index...
+using 198070 words
+2026-10-10 11:29:14: DONE
+2026-10-10 11:29:14: building unsorted_list...
+	using 20 [bpi]
+2026-10-10 11:29:14: DONE
+2026-10-10 11:29:14: building minimal_docids...
+	using 20 [bpi]
+2026-10-10 11:29:14: DONE
+de type1 k=1 heapMB=14.3103 totalMB=12.5716 prefixMB=8.31123 mean=1.58891 p99=2.937 mism=0 notfound=0
+de type1 k=5 heapMB=14.3103 totalMB=12.5716 prefixMB=8.31123 mean=3.54922 p99=6.615 mism=0 notfound=0
+de type1 k=10 heapMB=14.3103 totalMB=12.5716 prefixMB=8.31123 mean=5.83811 p99=12.025 mism=0 notfound=0
+de type1 k=20 heapMB=14.3103 totalMB=12.5716 prefixMB=8.31123 mean=10.0982 p99=32.155 mism=0 notfound=0
+de type1 k=50 heapMB=14.3103 totalMB=12.5716 prefixMB=8.31123 mean=21.5316 p99=62.946 mism=0 notfound=0
+2026-10-10 11:29:19: building integer_fc_dictionary with bucket size 16...
+2026-10-10 11:29:20: DONE
+2026-10-10 11:29:20: building fc_dictionary with bucket size 16...
+10.6447 characters per string
+2026-10-10 11:29:20: DONE
+2026-10-10 11:29:20: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:20: DONE
+	using 20 [bpi]
+2026-10-10 11:29:20: building unsorted_list...
+	using 20 [bpi]
+2026-10-10 11:29:20: DONE
+2026-10-10 11:29:20: building minimal_docids...
+	using 20 [bpi]
+2026-10-10 11:29:20: DONE
+de type2 k=1 heapMB=20.0287 totalMB=15.6681 prefixMB=11.4077 mean=1.80457 p99=3.981 mism=0 notfound=0
+de type2 k=5 heapMB=20.0287 totalMB=15.6681 prefixMB=11.4077 mean=4.25806 p99=9.593 mism=0 notfound=0
+de type2 k=10 heapMB=20.0287 totalMB=15.6681 prefixMB=11.4077 mean=7.12663 p99=27.877 mism=0 notfound=0
+de type2 k=20 heapMB=20.0287 totalMB=15.6681 prefixMB=11.4077 mean=12.1638 p99=48.02 mism=0 notfound=0
+de type2 k=50 heapMB=20.0287 totalMB=15.6681 prefixMB=11.4077 mean=25.3806 p99=75.713 mism=0 notfound=0
+2026-10-10 11:29:26: building completion_trie...
+2026-10-10 11:29:26: DONE
+2026-10-10 11:29:26: building fc_dictionary with bucket size 16...
+17.3227 characters per string
+2026-10-10 11:29:26: DONE
+2026-10-10 11:29:26: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:27: DONE
+2026-10-10 11:29:27: building forward_index...
+using 222766 words
+2026-10-10 11:29:27: DONE
+2026-10-10 11:29:27: building unsorted_list...
+	using 20 [bpi]
+2026-10-10 11:29:27: DONE
+2026-10-10 11:29:27: building minimal_docids...
+	using 20 [bpi]
+2026-10-10 11:29:27: DONE
+ru type1 k=1 heapMB=18.7651 totalMB=14.4097 prefixMB=9.61825 mean=2.24873 p99=4.594 mism=0 notfound=0
+ru type1 k=5 heapMB=18.7651 totalMB=14.4097 prefixMB=9.61825 mean=4.30854 p99=9.991 mism=0 notfound=0
+ru type1 k=10 heapMB=18.7651 totalMB=14.4097 prefixMB=9.61825 mean=5.95467 p99=14.011 mism=0 notfound=0
+ru type1 k=20 heapMB=18.7651 totalMB=14.4097 prefixMB=9.61825 mean=10.1594 p99=36.12 mism=0 notfound=0
+ru type1 k=50 heapMB=18.7651 totalMB=14.4097 prefixMB=9.61825 mean=20.4389 p99=57.69 mism=0 notfound=0
+2026-10-10 11:29:32: building integer_fc_dictionary with bucket size 16...
+2026-10-10 11:29:32: DONE
+2026-10-10 11:29:32: building fc_dictionary with bucket size 16...
+17.3227 characters per string
+2026-10-10 11:29:32: DONE
+2026-10-10 11:29:32: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:33: DONE
+	using 20 [bpi]
+2026-10-10 11:29:33: building unsorted_list...
+	using 20 [bpi]
+2026-10-10 11:29:33: DONE
+2026-10-10 11:29:33: building minimal_docids...
+	using 20 [bpi]
+2026-10-10 11:29:33: DONE
+ru type2 k=1 heapMB=24.4501 totalMB=17.8923 prefixMB=13.1008 mean=2.14589 p99=4.422 mism=0 notfound=0
+ru type2 k=5 heapMB=24.4501 totalMB=17.8923 prefixMB=13.1008 mean=4.40518 p99=10.618 mism=0 notfound=0
+ru type2 k=10 heapMB=24.4501 totalMB=17.8923 prefixMB=13.1008 mean=6.66835 p99=17.561 mism=0 notfound=0
+ru type2 k=20 heapMB=24.4501 totalMB=17.8923 prefixMB=13.1008 mean=10.9554 p99=39.56 mism=0 notfound=0
+ru type2 k=50 heapMB=24.4501 totalMB=17.8923 prefixMB=13.1008 mean=26.3531 p99=87.206 mism=0 notfound=0
+2026-10-10 11:29:39: building completion_trie...
+2026-10-10 11:29:39: DONE
+2026-10-10 11:29:39: building fc_dictionary with bucket size 16...
+13.4592 characters per string
+2026-10-10 11:29:39: DONE
+2026-10-10 11:29:39: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:40: DONE
+2026-10-10 11:29:40: building forward_index...
+using 507871 words
+2026-10-10 11:29:40: DONE
+2026-10-10 11:29:40: building unsorted_list...
+	using 21 [bpi]
+2026-10-10 11:29:40: DONE
+2026-10-10 11:29:40: building minimal_docids...
+	using 21 [bpi]
+2026-10-10 11:29:40: DONE
+all type1 k=1 heapMB=37.1301 totalMB=31.5498 prefixMB=20.7477 mean=2.4496 p99=6.327 mism=0 notfound=0
+all type1 k=5 heapMB=37.1301 totalMB=31.5498 prefixMB=20.7477 mean=5.40592 p99=12.935 mism=0 notfound=0
+all type1 k=10 heapMB=37.1301 totalMB=31.5498 prefixMB=20.7477 mean=7.94218 p99=32.038 mism=0 notfound=0
+all type1 k=20 heapMB=37.1301 totalMB=31.5498 prefixMB=20.7477 mean=13.7089 p99=46.494 mism=0 notfound=0
+all type1 k=50 heapMB=37.1301 totalMB=31.5498 prefixMB=20.7477 mean=26.0556 p99=75.689 mism=0 notfound=0
+2026-10-10 11:29:47: building integer_fc_dictionary with bucket size 16...
+2026-10-10 11:29:47: DONE
+2026-10-10 11:29:47: building fc_dictionary with bucket size 16...
+13.4592 characters per string
+2026-10-10 11:29:48: DONE
+2026-10-10 11:29:48: building inverted_index...
+avg. list size = 1
+max_list_size = 1
+min_list_size = 1
+2026-10-10 11:29:48: DONE
+	using 21 [bpi]
+2026-10-10 11:29:48: building unsorted_list...
+	using 21 [bpi]
+2026-10-10 11:29:48: DONE
+2026-10-10 11:29:48: building minimal_docids...
+	using 21 [bpi]
+2026-10-10 11:29:48: DONE
+all type2 k=1 heapMB=48.4182 totalMB=39.112 prefixMB=28.3099 mean=2.60917 p99=5.733 mism=0 notfound=0
+all type2 k=5 heapMB=48.4182 totalMB=39.112 prefixMB=28.3099 mean=5.01818 p99=11.293 mism=0 notfound=0
+all type2 k=10 heapMB=48.4182 totalMB=39.112 prefixMB=28.3099 mean=8.33842 p99=35.725 mism=0 notfound=0
+all type2 k=20 heapMB=48.4182 totalMB=39.112 prefixMB=28.3099 mean=13.9161 p99=47.3 mism=0 notfound=0
+all type2 k=50 heapMB=48.4182 totalMB=39.112 prefixMB=28.3099 mean=27.1282 p99=75.842 mism=0 notfound=0

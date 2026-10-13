@@ -1,0 +1,7 @@
+dataset,method,param,k,n,bytes,build_s,mean_us,p50_us,p95_us,p99_us,mismatches,checksum,blocks_per_query
+uz,FC-BM,B=8,1,1.06157,1,2,3,0
+uz,FC-BM,B=8,10,6.37178,7,11,11,0
+uz,FC-BM,B=8,50,20.428,13,49,49,0
+uz,FC-BM,B=32,1,1.0933,1,2,3,0
+uz,FC-BM,B=32,10,4.79175,4,11,11,0
+uz,FC-BM,B=32,50,13.3411,4,44,44,0

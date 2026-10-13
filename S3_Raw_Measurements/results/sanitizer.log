@@ -1,0 +1,5 @@
+# g++ 13.3.0 -O1 -g -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Wextra -std=c++20
+# warnings: 7 (unused functions, misleading indentation, macro redefinition; none in query code paths)
+# date: 2026-10-10T12:35:06Z
+checks=3211880 fails=0 blocks>k+2: 0 (max excess over k: 0)
+exit=0 elapsed=61s

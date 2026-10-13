@@ -1,0 +1,6 @@
+tr: queries=100000 distinct_prefixes=15663 mismatches=0 time=0s
+uz: queries=100000 distinct_prefixes=18689 mismatches=0 time=1s
+en: queries=100000 distinct_prefixes=12016 mismatches=0 time=1s
+de: queries=100000 distinct_prefixes=13743 mismatches=0 time=3s
+ru: queries=100000 distinct_prefixes=18174 mismatches=0 time=3s
+all: queries=100000 distinct_prefixes=22443 mismatches=0 time=4s

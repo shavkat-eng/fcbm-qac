@@ -1,0 +1,5 @@
+# fresh-copy reproduction check, 2026-10-11T04:14:46Z, stages setup data verify tables (bench excluded: hours)
+stage=setup exit=0 seconds=198
+stage=data exit=0 seconds=339
+stage=verify exit=0 seconds=66
+stage=tables exit=0 seconds=40

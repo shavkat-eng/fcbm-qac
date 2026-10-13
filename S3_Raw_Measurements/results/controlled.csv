@@ -1,0 +1,6 @@
+dataset,n,mean_bytes,shared_prefix_pct,fc_string_pct_raw,score_bytes_orig,score_bytes_rank,fcbm32_pct_raw_orig,fcbm32_pct_raw_rank
+tr,63261,8.81,74.8,49.9,2.11,2.74,78,85
+uz,63261,9.18,69.2,54.4,2.09,2.74,81,88
+en,63261,7.13,68.0,61.7,2.08,2.74,96,105
+de,63261,8.83,67.7,56.7,2.07,2.74,85,92
+ru,63261,15.84,78.8,36.0,2.10,2.74,52,56

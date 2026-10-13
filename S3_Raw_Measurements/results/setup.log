@@ -1,0 +1,12 @@
+date: 2026-10-11T04:14:46Z
+build profile: -march=native
+g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+cmake version 3.28.3
+Python 3.13.16
+wordfreq 3.1.1
+pandas 3.0.5
+numpy 2.5.3
+matplotlib 3.11.2
+marisa-trie 38180f6d3653cd2c88dd7047711e75f48f84527c
+autocomplete b3e9da7cec586881add11d55c956ebd0c5b83c0e
+CoCo-trie ee860d4b1e62075b8c80e992e9c32de94ee4caa6
